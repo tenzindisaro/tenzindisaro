@@ -5,7 +5,6 @@
 
 ![Tenzin Disaro GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzindisaro&show_icons=true&theme=dracula)
 
-
 ## Tecnologias que eu uso 👨‍💻
 
 <div style="display: inline_block"><br/>
@@ -17,9 +16,10 @@
   </div>
   
   
- 
- 
- 
+  
+  
+  ##
+
  🚀 É com grande satisfação que compartilho com vocês minha trajetória na área de Análise e Desenvolvimento de Sistemas.Tenho plena consciência de que a aprendizagem é um processo contínuo e estou comprometido em me manter atualizado com as últimas tendências e tecnologias do mercado.🚀
 
 
