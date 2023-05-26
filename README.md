@@ -16,5 +16,7 @@
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   </div>
   
+  
+ 🚀 É com grande satisfação que compartilho com vocês minha trajetória na área de Análise e Desenvolvimento de Sistemas.Tenho plena consciência de que a aprendizagem é um processo contínuo e estou comprometido em me manter atualizado com as últimas tendências e tecnologias do mercado.🚀
 
 
