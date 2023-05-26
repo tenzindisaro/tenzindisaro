@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá eu sou Tenzin Disaró 👋
+
+[![Lnkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tenzindisaro/)
+
+
+![Tenzin Disaro GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzindisaro&show_icons=true&theme=radical)
 
 <!--
 **tenzindisaro/tenzindisaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
