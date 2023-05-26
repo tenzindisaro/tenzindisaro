@@ -5,6 +5,9 @@
 
 ![Tenzin Disaro GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzindisaro&show_icons=true&theme=dracula)
 
+
+
+
 ## Tecnologias que eu uso 👨‍💻
 
 <div style="display: inline_block"><br/>
