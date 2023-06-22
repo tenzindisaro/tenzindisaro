@@ -1,10 +1,10 @@
-## Olá eu sou Tenzin Disaró 👋
+### Olá eu sou Tenzin Disaró 👋
 🚀 É com grande satisfação que compartilho com vocês minha trajetória na área de Análise e Desenvolvimento de Sistemas. Tenho plena consciência de que a aprendizagem é um processo contínuo e estou comprometido em me manter atualizado com as últimas tendências e tecnologias do mercado.🚀
 
 [![Lnkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tenzindisaro/)
 
 
-## Tecnologias que eu uso 👨‍💻
+### 👨‍💻Tecnologias que eu uso 
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -15,15 +15,12 @@
   <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   </div>
 
-##
-
+### 🚴‍♂️Striving for Improvement and Evolution
    
   ![Tenzin Disaro GitHub stats](https://github-readme-stats-x35s-git-master-tenzindisaro.vercel.app/api?username=tenzindisaro&show_icons=true&theme=dracula)
   [![Top Langs](https://github-readme-stats-x35s-git-master-tenzindisaro.vercel.app/api/top-langs/?username=tenzindisaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###
-
-
+### 🎧Spotfy Playing
 
   [![Spotify](https://novatorem-t7uy-tenzindisaro.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22oipunbsn4vln3pbmtpxrd3y)
 
