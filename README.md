@@ -1,4 +1,5 @@
 ## Olá eu sou Tenzin Disaró 👋
+🚀 É com grande satisfação que compartilho com vocês minha trajetória na área de Análise e Desenvolvimento de Sistemas. Tenho plena consciência de que a aprendizagem é um processo contínuo e estou comprometido em me manter atualizado com as últimas tendências e tecnologias do mercado.🚀
 
 [![Lnkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tenzindisaro/)
 
@@ -20,8 +21,8 @@
   ![Tenzin Disaro GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzindisaro&show_icons=true&theme=dracula)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenzindisaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  ##
+  
 
- 🚀 É com grande satisfação que compartilho com vocês minha trajetória na área de Análise e Desenvolvimento de Sistemas. Tenho plena consciência de que a aprendizagem é um processo contínuo e estou comprometido em me manter atualizado com as últimas tendências e tecnologias do mercado.🚀
+ 
 
 
