@@ -24,7 +24,10 @@
 
 
 
+[![Spotify](https:/novatorem-git-main-tenzindisaro.vercel.app/api/spotify)](https://open.spotify.com/user/22oipunbsn4vln3pbmtpxrd3y)
 
+
+[<img src="https://novatorem-liart-one.vercel.app/api/spotfy-playing" alt="Spotfy Now Playing" width="350" />](https://open.spotify.com/user/22oipunbsn4vln3pbmtpxrd3y)
 
 
 
