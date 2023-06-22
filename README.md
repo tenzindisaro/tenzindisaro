@@ -22,9 +22,7 @@
   [![Top Langs](https://github-readme-stats-x35s-git-master-tenzindisaro.vercel.app/api/top-langs/?username=tenzindisaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-##
 
-[<img src="https://novatorem-git-main-tenzindisaro.vercel.app/api/spotfy-playing" alt="Spotfy Now Playing" width="350" />](https://open.spotify.com/user/22oipunbsn4vln3pbmtpxrd3y)
 
 
 
