@@ -21,12 +21,12 @@
   ![Tenzin Disaro GitHub stats](https://github-readme-stats-x35s-git-master-tenzindisaro.vercel.app/api?username=tenzindisaro&show_icons=true&theme=dracula)
   [![Top Langs](https://github-readme-stats-x35s-git-master-tenzindisaro.vercel.app/api/top-langs/?username=tenzindisaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- 
+###
 
 
-
-
-
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-t7uy-tenzindisaro.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22oipunbsn4vln3pbmtpxrd3y)
+</div>
 
 
 
