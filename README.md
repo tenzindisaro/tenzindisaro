@@ -24,9 +24,9 @@
 ###
 
 
-&nbsp;<div align="center">
+
   [![Spotify](https://novatorem-t7uy-tenzindisaro.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22oipunbsn4vln3pbmtpxrd3y)
-</div>
+
 
 
 
