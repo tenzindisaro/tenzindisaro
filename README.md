@@ -3,12 +3,6 @@
 [![Lnkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tenzindisaro/)
 
 
-![Tenzin Disaro GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzindisaro&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenzindisaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 ## Tecnologias que eu uso 👨‍💻
 
 <div style="display: inline_block"><br/>
@@ -19,9 +13,15 @@
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   </div>
+
+##
+
+   
+  ![Tenzin Disaro GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzindisaro&show_icons=true&theme=dracula)
+
   
-  
-  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenzindisaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   ##
 
