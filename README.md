@@ -26,7 +26,7 @@
   [![Spotify](https://novatorem-t7uy-tenzindisaro.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22oipunbsn4vln3pbmtpxrd3y)
 
 ###
-[![Lnkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://www.linkedin.com/in/tenzindisaro/](https://github.com/tenzindisaro)https://github.com/tenzindisaro)
+[![Lnkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://www.linkedin.com/in/tenzindisaro/])
 ![Profile Views](https://komarev.com/ghpvc/?username=tenzindisaro&color=lightgrey&style=for-the-badge&label=PROFILE+VIEWS)
 
 
